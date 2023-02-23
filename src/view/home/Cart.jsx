@@ -16,7 +16,7 @@ const Cart = (e) => {
 
   }
 
-  //get items from local storage
+  //get items from local storageee
   let storedObjects;
 const storedObjectsString = localStorage.getItem("cart");
 if (storedObjectsString) {
